@@ -1,2 +1,3 @@
-# intro-to-swift
-Keeping track of Playgrounds coding lessons for review.
+# Introduction to Swift
+
+Here are coding concepts and solutions for lessons taught in Apple's Playgrounds app.
