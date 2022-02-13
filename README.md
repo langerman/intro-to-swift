@@ -16,16 +16,16 @@ Here are coding concepts and solutions for lessons taught in Apple's Playgrounds
 
 ## Glossary
 
-commands: set of instructions written in the correct order. Your goal is to figure out which instructions, in which order, will result in something great. Commands always end in parentheses.
+commands: Set of instructions written in the correct order. Your goal is to figure out which instructions, in which order, will result in something great. Commands always end in parentheses.
 
-functions:
+functions: 
 
-for loops:
+for loops: 
 
-conditional code:
+conditional code: 
 
-logical operators:
+logical operators: 
 
-while loops:
+while loops: 
 
-algorithims:
+algorithims: 
